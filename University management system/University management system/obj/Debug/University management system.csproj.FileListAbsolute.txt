@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Assignment mid fall 19-20\University management system\University management system\obj\Debug\University management system.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assignment mid fall 19-20\University management system\University management system\obj\Debug\University management system.csproj.CoreCompileInputs.cache
